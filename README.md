@@ -2,16 +2,13 @@
 
 <p align="center">
   
-<img src="images/harrison.png" height=300></p>
+<img src="images/profile.jpg" height=300></p>
   
-Hi, my name is Harrison Jansma.
+Hi, my name is Hrishikesh Kini.
 
 
 
-<p>I am an avid FPS competitive gamer, sci-fi reader, and student. I love to learn about how things work, whether that be studying good coding practices, engineering techniques, or machine learning methods. Much of my experience revolves around building machine learning applications, but I also strive to gain a deeper understanding of the world so that I can expand my skillset and build new and amazing things.</p>
-
-
-
+<p>I am Hrishikesh Kini, aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.</p>
 
 
 # Get to Know Me 
@@ -19,30 +16,12 @@ Hi, my name is Harrison Jansma.
 ### My Portfolio Website
 
 <p align="center">
-<a href="https://www.harrisonjansma.com"><img src="images/cv_website.PNG"></a></p>
+<a href="https://hrishikeshkini.github.io/portfolio/"><img src="images/capture.PNG"></a></p>
   
-  <p> I built the site in HTML, CSS, and Javascript using pieces of an existing design on <a href="https://colorlib.com/">Colorlib</a>. Though I am not interested in Front-End Development, I created and deployed this website on a private <a href="https://www.digitalocean.com/">DigitalOcean</a> server so that I could learn more about web app design and back-end development. Though I did learn a lot from making this website, much of the joy that came from this project was found making something of my own and putting it out into the world.</p>
+  <p> I built the site in Hugo using pieces of an existing design on <a href="https://gohugo.io/">Hugo</a>. Though I am not interested in Front-End Development, I created and deployed this website on a <a href="https://github.com/">github</a> server so that I could learn more about web app design and back-end development. Though I did learn a lot from making this website, much of the joy that came from this project was found making something of my own and putting it out into the world.</p>
   
   
 <hr>
-
-  
-### My Writing
-  <p align="center">
-<a href="https://medium.com/@harrisonjansma"><img src="images/Medium.PNG"></a></p>
-  
-  
-  
-  <p>I write because I love to teach. Though writing has fallen on my backburner with work and school, in the past I have been published in multiple major data-science and analytics publications; including <a href="https://medium.freecodecamp.org/@harrisonjansma">freeCodeCamp</a> (500k subscribers), <a href="https://towardsdatascience.com/@harrisonjansma">Towards Data Science</a>, and <a href="https://www.kdnuggets.com/2018/10/learn-data-science-broke.html">KDNuggets</a>..</p>
-
-<hr>
-
-### My Professional Experience
-  <p align="center">
-<a href="https://www.linkedin.com/in/harrisonjansma/"><img src="images/Linkedin.PNG"></a></p>
-  
-  <p>For the past 6 months I have been working as a Data Science Intern at Sprint. I was able to get much experience in database manipulation/extraction, ML model development, and business communication. Much of my work was centered around building machine learning applications to predict when business systems fail.</p>
-
 
 # My Past Projects
 
