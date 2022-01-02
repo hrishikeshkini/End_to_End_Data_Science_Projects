@@ -27,94 +27,65 @@ Hi, my name is Hrishikesh Kini.
 
 <hr>
 
-### [RNNs, LSTMs, and Attention Mechanisms for Language Modelling (PyTorch)](https://github.com/harrisonjansma/2019_Notes/tree/master/ML/NLP/PyTorch%20RNN%20Implementations)
+### [Water Quality : Drinking water potability](https://github.com/hrishikeshkini/Water-Quality-Drinking-water-potability)
 
 
 <p>
-Tested the use of Word2Vec embeddings with a variety of sequential input deep learning models towards the task of language modeling (predicting the next word in a sentence).
+ Contaminated water and poor sanitation are linked to transmission of diseases such as cholera, diarrhoea, dysentery, hepatitis A, typhoid, and polio. Absent, inadequate, or inappropriately managed water and sanitation services expose individuals to preventable health risks. This is particularly the case in health care facilities where both patients and staff are placed at additional risk of infection and disease when water, sanitation, and hygiene services are lacking. Globally, 15% of patients develop an infection during a hospital stay, with the proportion much greater in low-income countries.
+
+So, I took some inspiration from this to use this Water Quality dataset to understand what consitutes to safe, Potable water and apply machine learning to it to distinguish between Potable and Non-Potable water.
  </p>
 
 
-December 10, 2019
 <hr>
 
-### [DavisBase: A Custom Designed SQL Database](https://github.com/harrisonjansma/DavisBase)
+### [Carinfinity machine learning project](https://github.com/hrishikeshkini/Carinfinity_machine_learning_project)
 
 <p>
-A fully functional, SQL-compliant database implemented from scratch in Python. DavisBase compresses data to a custom-designed bit-level encoding for maximal data compression. By utilizing a file size of 512Kb, DavisBase performs well in low memory environments while also maximizing query time.
+ This is my final year project. This is second hand car buying and selling website. This project uses machine learning to predict the price of second hand cars. I have used XGBoost regressor to predict the data.
  </p>
 
-
-December 02, 2019
 <hr>
 
-### [Reinforcement Learning: Dynamic Policy Gradients (Numpy)](https://github.com/harrisonjansma/2019_Notes/blob/master/RL/2_Policy-Iteration-QLearning/Dynamic_Programming_Policy_Iteration.ipynb)
-
-
-<p>
-My implementation of dynamic policy gradients in Python. This reinforcement learning algorithm was then used to train an agent to traverse a dangerous environment.
- </p>
-
-
-November 06, 2019
-<hr>
-
-### [Hidden Markov Models for Parts of Speech Tagging (Python)](https://github.com/harrisonjansma/2019_Notes/blob/master/ML/Hidden%20Markov%20Model%20Implementation/HW2%20Sandbox.ipynb)
+### [Pima Indians diabetes](https://github.com/hrishikeshkini/pima-indians-diabetes)
 
 
 <p>
-Custom implementation of Hidden Markov Models to assign parts of speech labels to a free text dataset. Model was coded from scratch in base Python and utilizes the Viterbi Algorithm for decoding the probability of a given sequence.
+The main goal of this project is to predict whether the person is positive or negative for Diabetes.
  </p>
 
-October 22, 2019
 
 <hr>
 
-### [Named Entity Recognition with Scikit-Learn and PyTorch](https://github.com/harrisonjansma/2019_Notes/tree/master/ML/NLP/NER%20Analysis)
+### [Movie Recommender System](https://github.com/hrishikeshkini/movie-recommender-system)
+
 
 <p>
-Applied deep neural networks to the task of finding named entities (like "Google", or "Harrison") within the CoNLL (2003) dataset. A logistic regression and LSTM were trained on the data and achieved F1 scores of 0.926 and 0.899 respectively.
- </p>
+The main goal of this project is to recommend the 5 movies based on user interest.
 
-September 20, 2019
+
 <hr>
 
-### [XGBoost for Text Classification](https://github.com/harrisonjansma/2019_Notes/blob/master/ML/Gradient%20Boosting%20Notes/Gradient%20Boosting%20Theory.ipynb)
+### [Dog Breed Prediction](https://github.com/hrishikeshkini/Dog-Breed-Prediction)
 
 <p>
-Utilized Python's XGBoost package to implement gradient boosting on a textual dataset. A similar code was later used during my work at Sprint to build machine learning models for text classification.
+The main goal of this project is to predict the breeds of different dogs available in the provided dataset.
  </p>
-
-June 01, 2019
 
 <hr>
 
-### [PySpark and HIVE for Data Analysis](https://github.com/harrisonjansma/2019_Notes/blob/master/Data%20Engineering/Big%20Data/PySpark-1.ipynb)
+# Other-Projects
 
-<p>
-Worked on an AWS EMR cluster to learn the basics of PySpark and HIVE while working at Sprint. These tools allowed me to collect massive amounts of data from Sprint's production data lake.
- </p>
+- Heart Attack Risk predictor <a href="https://github.com/hrishikeshkini/Heart-Attack-Risk-Predictor-with-AutoML">Jupyter Notebook</a>
 
-May 10, 2019
-<hr>
+- Mall Customer Segmentation <a href="https://github.com/hrishikeshkini/Mall-Customer-Segmentation">Jupyter Notebook</a>
 
-### [Implementing Common Algorithms in C++](https://github.com/harrisonjansma/Cpp-Algorithm-Implementations)
+- Live face mask detection <a href="https://github.com/hrishikeshkini/live-face-mask-detection">Jupyter Notebook</a>
 
-<p>
-The only way to become a not-garbage-coder is to code a lot. This repository contains some of the coursework I've completed over the last few months. As the semester winds down, I hope to start a new passion project soon!
- </p>
-
-March 19, 2019
-<hr>
+## More projects on my portfolio webiste
+<a href="https://hrishikeshkini.github.io/portfolio/"><img src="images/Capture.PNG"></a></p>
 
 
-
-# Mini-Projects
-
-- An Overview of Linear Models in Scikit Learn <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/2.%20Sklearn%20Documentation/1.1-1.5%20Supervised%20Learning.ipynb">Jupyter Notebook</a>
-
-- Web Scraping Overwatch Data from MasterOverwatch.com <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/NLP/WebScrapeRegex/overwatch_web_scraping.ipynb">Jupyter Notebook</a>
-
-- FICO Score Statistical Regression <a href="https://github.com/harrisonjansma/ML-Notes/blob/master/1.%20Shallow%20Learning%20Algorithms/1.%20Linear%20Regression/1_Linear%20Regression%20Code.ipynb">Jupyter Notebook</a>
+### Thank You
 
 
