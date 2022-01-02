@@ -1,4 +1,4 @@
-# End_to_End_Data_Science_Projects
+# End to End Data Science Projects
 
 <p align="center">
   
